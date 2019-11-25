@@ -1,1 +1,2 @@
 first line is added in first.txt
+second line is added in first.txt
